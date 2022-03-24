@@ -5,7 +5,7 @@ PR links can be found at the bottom of this document[^1]
 
 [GitHub Repo](https://github.com/AndresMillsGallego/basic-api-server)
 
-[Heroku Deployed Link]()
+[Heroku Deployed Link](https://andresmills-basic-api-server.herokuapp.com/)
 
 ![Class 03 UML](./src/assets/Class-03-UML.png)
 
@@ -39,4 +39,4 @@ I used `sequelize`, `postgres`, `express`, `jest` to build and test this app.  I
 
 ## Pull Requests
 
-[^1]: [Class 03 Pull Request]()
+[^1]: [Class 03 Pull Request](https://github.com/AndresMillsGallego/basic-api-server/pull/1)
